@@ -995,7 +995,7 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
 	}
 }
 
-	@media (max-width: 1140px){
+@media (max-width: 1170px){
 	.container {width: 100% !important;}
 }
 /* ipad竖屏 */
@@ -1011,7 +1011,7 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
         background: #333333;
     }
 }
-@media (min-width: 1140px) {
+@media (min-width: 1170px) {
     .navbar-collapse {
         position: static;
         width: auto;
